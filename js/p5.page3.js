@@ -29,7 +29,7 @@ let links = [
   },
   {
     text: "ConTTTTTTTTTTTTTTTTTTTTTTTTTTtinue a prestar atenção aos presságios. Seu coração ainda é capaz de te mostrar onde está o tesouro",
-    href: "page4.html",
+    href: "page3.html",
   },
   {
     text: "Você nem precisa entender o deserto: basta contemplar um simples grão de areogik90u340520200202000)))))*****@@**@@@ia e verá nele todas as maravilhas. da criação",
