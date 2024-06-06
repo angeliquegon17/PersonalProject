@@ -28,7 +28,7 @@ let links = [
   },
   {
     text: "compree",
-    href: "page2.html",
+    href: "page3.html",
   },
   {
     text: "))@(@@__",
